@@ -56,7 +56,7 @@ form textarea {
   text-decoration: none;
   font-size: 18px;
   line-height: 60px;
-  transition: ease 0.2s;
+  transition: filter 0.2s;
 }
 
 .button:hover {
